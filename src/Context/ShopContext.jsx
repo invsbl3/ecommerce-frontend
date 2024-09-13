@@ -3,7 +3,7 @@ import React, { createContext, useEffect, useState } from "react";
 export const ShopContext = createContext(null);
 
 
-const rootAPI = 'https://ecommerce-api-ebon-five.vercel.app/';
+const rootAPI = 'https://ecommerce-api-ebon-five.vercel.app/api/';
 const endpointAllProducts = rootAPI + 'product/allproducts';
 
 const rootCart = rootAPI + 'cart/';
@@ -18,7 +18,7 @@ const ShopContextProvider = (props) => {
     const [cartItems, setCartItems] = useState([]);
 
     useEffect(() => {
-        fetch(rootAPI + 'api/product/allproducts')
+        fetch(rootAPI + 'product/allproducts')
             .then((response) => response.json())
             .then((data) => setAll_Products(data))
 

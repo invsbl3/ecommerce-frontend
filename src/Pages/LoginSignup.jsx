@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import './CSS/LoginSignup.css'
 
 
-const rootAPI = 'https://ecommerce-api-ebon-five.vercel.app/';
+const rootAPI = 'https://ecommerce-api-ebon-five.vercel.app/api/';
 
 const LoginSignup = () => {
   const [state, setState] = useState("Login");
