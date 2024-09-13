@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/invsbl3/ecommerce-frontend",
+  "homepage": "https://invsbl3.github.io/ecommerce-frontend",
   "proxy": "https://ecommerce-api-ebon-five.vercel.app/",
   "name": "frontend",
   "version": "0.1.0",
