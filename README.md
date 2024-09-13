@@ -2,6 +2,8 @@
 - It's React Front-End was deployed with `github-pages`, so go to [https://invsbl3.github.io/ecommerce-frontend/](https://invsbl3.github.io/ecommerce-frontend/).
 - It should connect properly with the Express/Node Back-End deployed with `vercel` here [https://vercel.com/invsbl3s-projects/ecommerce-api](https://vercel.com/invsbl3s-projects/ecommerce-api).
 
+## Disclaimer
+The API is almost fully open, so I'm not responsible for vandalism or 'bad uses' that could happen in this environment.
 
 ## Front End
 Project with React JS for front-end.
