@@ -6,13 +6,15 @@
 ## Front End
 Project with React JS for front-end.
 
-There are several flaws of implementation, algorithms, structure both in front-end, design and back-end in this project.
-Just a simple base, but not enough to make a real good project.
+There are several flaws of implementation, algorithms, structure both in front-end, design and back-end in this project, that comes from the tutorial itself.
+I already did another back-end models with better, faster and more secure and clean code with express/node to my future projects, and I'm going to use React from scratch to build a better model of e-commerce website which really should worth for more professional intents.
+
+This project is just a really simple base, not enough to make a real good project.
 
 
-I'm following [this tutorial]{https://www.youtube.com/watch?v=y99YgaQjgx4} (give credits to this guy).
+I' followed [this tutorial]{https://www.youtube.com/watch?v=y99YgaQjgx4} (give credits to this guy).
 
-My focus is to learn how to build a basic E-Commerce structure and then modify the Design to a PetShop (just to train my abilities).
+My focus is to learn how to build a basic E-Commerce structure and then modify the Design to a Shoe Shop (just to train my abilities).
 
 
 
