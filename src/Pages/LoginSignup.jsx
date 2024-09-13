@@ -3,6 +3,7 @@ import './CSS/LoginSignup.css'
 
 
 const rootAPI = 'https://ecommerce-api-ebon-five.vercel.app/api/';
+const frontURL = 'https://invsbl3.github.io/ecommerce-frontend/';
 
 const LoginSignup = () => {
   const [state, setState] = useState("Login");
@@ -30,7 +31,7 @@ const LoginSignup = () => {
 
     if (responseData.success) {
       localStorage.setItem('auth-token', responseData.token);
-      window.location.replace(rootAPI);
+      window.location.replace(frontURL);
     }
     else {
       alert(responseData.error)
@@ -51,7 +52,7 @@ const LoginSignup = () => {
 
     if (responseData.success) {
       localStorage.setItem('auth-token', responseData.token);
-      window.location.replace("/");
+      window.location.replace(frontURL);
     }
     else {
       alert(responseData.error)
