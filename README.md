@@ -1,9 +1,15 @@
 ## Front End
 Project with React JS for front-end.
 
-I'm following [this tutorial]{https://www.youtube.com/watch?v=y99YgaQjgx4} (give credits to this guy, awesome content!).
+There are several flaws of implementation, algorithms, structure both in front-end, design and back-end in this project.
+Just a simple base, but not enough to make a real good project.
+
+
+I'm following [this tutorial]{https://www.youtube.com/watch?v=y99YgaQjgx4} (give credits to this guy).
 
 My focus is to learn how to build a basic E-Commerce structure and then modify the Design to a PetShop (just to train my abilities).
+
+
 
 ## CSS Patterns
 This is useful (give the author some likes): [css justify patterns]{https://miro.medium.com/v2/resize:fit:720/format:webp/1*y9RuktkbVshp7lmVmZrbeQ.png}
